@@ -11,7 +11,7 @@ Sketch libraries for wireframes and mockups.
 
 ### Fontawesome.sketch
 
-The full Fton Awesome 4.7 set as Sketch symbols, in both text and outlines.
+The full Font Awesome 4.7 set as Sketch symbols, in both text and outlines.
 
 Font Awesome is made by Dave Gandy - http://fontawesome.io.
 
